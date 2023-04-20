@@ -1,5 +1,5 @@
 # Usage: FROM [image name]
-FROM ubuntu
+FROM ubuntu:kinetic
 
 MAINTAINER Adithya Khamithkar <nkadithya31@gmail.com>
 
